@@ -7,7 +7,7 @@ Created on Fri Jan  4 19:04:25 2019
 ## https://www.python-course.eu/python3_properties.php
 
 
-## properties
+## properties ##
 ## getters and setters; also known as mutator methods
 ## Data encapsulation: bundling of data with the methods that operate on it
 class p:
@@ -154,7 +154,7 @@ print(x.condition)
 print(y.condition)
 
 
-## Public instead of private attributes
+## Public instead of private attributes ##
 ## Assume a class "OurClass" which has a public attribute "OurAtt"
 class OurClass:
     def __init__(self, a):
